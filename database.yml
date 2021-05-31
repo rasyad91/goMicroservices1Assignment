@@ -1,0 +1,8 @@
+development:
+  dialect: mysql
+  database: assignment5
+  user: root
+  password: password1
+  host: 127.0.0.1
+  port: 3000
+  pool: 5
